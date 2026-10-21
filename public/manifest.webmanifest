@@ -1,0 +1,16 @@
+{
+  "name": "Hippies Town Studio · made by Kiro",
+  "short_name": "Hippies Town",
+  "description": "Designs, mockups, photo shoots and products for Hippies Town. Art Connect People. Made by Kiro.",
+  "start_url": "/designs",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#10363f",
+  "background_color": "#f4f3f0",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
